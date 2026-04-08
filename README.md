@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I’m Kira, a full-stack web developer<br><br>· MERN stack ·<br><br>Currently learning TypeScript and Next.js
 
+Check out my portfolio: https://kirali.dev/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kira-mikaela-liebkind-115063317) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29648625) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k.mikae.lieb@gmail.com) 
